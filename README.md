@@ -35,7 +35,7 @@ This project presents a comprehensive solution to assist in organizing and under
 * Matplotlib
 
 ## Usage
-The document includes code snippets and explanations for each step of the NMT system development. You can replicate the process, train the model with the provided dataset, and test its organization capabilities on new data.
+The document includes code snippets and explanations for each step of the system development. You can replicate the process, train the model with the provided dataset, and test its organization capabilities on new data.
 
 ## Author
 Houssem Zelmat 
