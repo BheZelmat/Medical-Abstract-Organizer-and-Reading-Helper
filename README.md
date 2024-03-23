@@ -26,13 +26,13 @@ This project presents a comprehensive solution to assist in organizing and under
 
 ## Requirements
 
-Python 3.x
-TensorFlow 2.x
-TensorFlow Hub
-Pandas
-NumPy
-Scikit-Learn
-Matplotlib
+* Python 3.x
+* TensorFlow 2.x
+* TensorFlow Hub
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
 
 ## Usage
 The document includes code snippets and explanations for each step of the NMT system development. You can replicate the process, train the model with the provided dataset, and test its organization capabilities on new data.
